@@ -1,5 +1,12 @@
 ## 1. Скачати wordpress з  сайта  https://uk.wordpress.org/download/
 ## 2. Скопіювати файл wordpress-5.8.1-uk.zip в каталог /var/www/rvstep/login
+	Запустити програму MobaXterm
+	Session - SSH 
+	Remotr host: rvstep.pp.ua
+	usernsme : login
+	ПОРТ НЕ МІНЯТИ!!!
+	Натиснути ОК
+	Password: Qwe45t67u
 ## 3. Розархівувати файл wordpress-5.8.1-uk.zip
     cd /var/www/rvstep/login
     unzip wordpress-5.8.1-uk.zip
