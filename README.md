@@ -15,9 +15,9 @@
 	 mv -v /var/www/rvstep/login/wordpress/* /var/www/rvstep/login
 
 ## 5. Створити базу даних  :
-	mysql -u root -p 
-	create database login; 
+	mysql -u root -p password: qwe45t67u
 	password: qwe45t67u
+	create database login; 
 	exit;
 ==========================================================================================
 ## 6. Встановити wordpress - Відкрити в браузері http://rvstep.pp.ua/login.
